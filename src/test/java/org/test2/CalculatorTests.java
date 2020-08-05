@@ -1,5 +1,8 @@
+package org.test2;
+
 import org.junit.Assert;
 import org.junit.Test;
+import org.test1.KotlinCalculator;
 
 public class CalculatorTests {
     @Test
